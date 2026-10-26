@@ -4,6 +4,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
+<p align="center">
+  <img src="assets/aeropyre_3d_spin.gif" alt="AeroPyre-Sim 3D Wildfire & Swarm Spinning Animation" width="620px"/>
+</p>
+
 AeroPyre-Sim is a high-fidelity simulation engine that couples **Physics-Informed Neural Networks (PINNs)** with a **Decentralized Multi-Agent UAV Swarm** to predict, track, and suppress wildfire propagation fronts across complex 3D topological terrains under non-linear atmospheric wind fields.
 
 ---
